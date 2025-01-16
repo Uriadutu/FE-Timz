@@ -11,10 +11,6 @@ import TambahTahunPage from "./pages/TambahTahunPage";
 import NotFound from "./component/NotFound";
 import TambahVendorPage from "./pages/TambahVendorPage";
 
-
-
-
-
 function App() {
   return (
     <div>
